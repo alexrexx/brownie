@@ -1,0 +1,28 @@
+body {
+  background-color: #f0f0f0;
+}
+.box {
+  background-color: #ffffff;
+  border-radius: 5px;
+  width: 798px;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.title {
+  color: #ff6a28;
+  text-transform: uppercase;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+}
+
+.sub-title {
+  margin-top: 8px;
+  font-size: 16px;
+  color: #61656d;
+}
+
+.img {
+  margin-top: 14px;
+}
